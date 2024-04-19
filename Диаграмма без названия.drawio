@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-19T04:46:51.628Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="B1xvop18FQOld-4ltTkU" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-19T07:09:11.653Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="5R41TkVEqw3YhbLdHOgw" version="24.2.5" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2284" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,49 +34,96 @@
         <mxCell id="3khABBqEdNA2GmqdNmwd-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="3khABBqEdNA2GmqdNmwd-5">
           <mxGeometry x="40" y="80" width="40" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="3khABBqEdNA2GmqdNmwd-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="3khABBqEdNA2GmqdNmwd-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="3khABBqEdNA2GmqdNmwd-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="131" as="sourcePoint" />
             <mxPoint x="240" y="131" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3khABBqEdNA2GmqdNmwd-8" value="Шифрует на&amp;nbsp;&lt;div&gt;сертификат КК ОБ&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3khABBqEdNA2GmqdNmwd-7">
-          <mxGeometry x="-0.05" y="2" relative="1" as="geometry">
-            <mxPoint y="-15" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3khABBqEdNA2GmqdNmwd-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="3khABBqEdNA2GmqdNmwd-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="3khABBqEdNA2GmqdNmwd-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="160" as="sourcePoint" />
             <mxPoint x="440" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3khABBqEdNA2GmqdNmwd-10" value="Шифрует на&amp;nbsp;&lt;div&gt;сертификат КО МИ&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3khABBqEdNA2GmqdNmwd-9">
-          <mxGeometry x="-0.05" y="2" relative="1" as="geometry">
-            <mxPoint y="-15" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3khABBqEdNA2GmqdNmwd-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="3khABBqEdNA2GmqdNmwd-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="3khABBqEdNA2GmqdNmwd-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="200" as="sourcePoint" />
             <mxPoint x="640" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3khABBqEdNA2GmqdNmwd-12" value="Шифрует на&amp;nbsp;&lt;div&gt;сертификат КК МИ&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3khABBqEdNA2GmqdNmwd-11">
-          <mxGeometry x="-0.05" y="2" relative="1" as="geometry">
-            <mxPoint y="-15" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3khABBqEdNA2GmqdNmwd-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="3khABBqEdNA2GmqdNmwd-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="3khABBqEdNA2GmqdNmwd-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="680" y="240" as="sourcePoint" />
             <mxPoint x="840" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3khABBqEdNA2GmqdNmwd-14" value="Шифрует на&amp;nbsp;&lt;div&gt;сертификат ЦБ&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3khABBqEdNA2GmqdNmwd-13">
-          <mxGeometry x="-0.05" y="2" relative="1" as="geometry">
-            <mxPoint y="-15" as="offset" />
+        <mxCell id="3khABBqEdNA2GmqdNmwd-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="130" as="sourcePoint" />
+            <mxPoint x="40" y="130" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3khABBqEdNA2GmqdNmwd-16" value="Сообщение" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3khABBqEdNA2GmqdNmwd-15">
+          <mxGeometry x="-0.08" y="2" relative="1" as="geometry">
+            <mxPoint x="-16" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3khABBqEdNA2GmqdNmwd-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="3khABBqEdNA2GmqdNmwd-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="160" as="sourcePoint" />
+            <mxPoint x="440" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3khABBqEdNA2GmqdNmwd-21" value="Шифрует на&amp;nbsp;&lt;div&gt;сертификат КО МИ&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3khABBqEdNA2GmqdNmwd-20">
+          <mxGeometry x="-0.05" y="2" relative="1" as="geometry">
+            <mxPoint x="65" y="-36" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3khABBqEdNA2GmqdNmwd-19" value="decryptAndVerify AndSignAndEncrypt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="142" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3khABBqEdNA2GmqdNmwd-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="3khABBqEdNA2GmqdNmwd-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="200" as="sourcePoint" />
+            <mxPoint x="640" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3khABBqEdNA2GmqdNmwd-24" value="Шифрует на&amp;nbsp;&lt;div&gt;сертификат КК МИ&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3khABBqEdNA2GmqdNmwd-23">
+          <mxGeometry x="-0.05" y="2" relative="1" as="geometry">
+            <mxPoint x="65" y="-26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3khABBqEdNA2GmqdNmwd-22" value="decryptAndVerify AndSignAndEncrypt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="185" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3khABBqEdNA2GmqdNmwd-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="3khABBqEdNA2GmqdNmwd-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="131" as="sourcePoint" />
+            <mxPoint x="240" y="131" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3khABBqEdNA2GmqdNmwd-26" value="Шифрует на&amp;nbsp;&lt;div&gt;сертификат КК ОБ&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3khABBqEdNA2GmqdNmwd-25">
+          <mxGeometry x="-0.05" y="2" relative="1" as="geometry">
+            <mxPoint x="65" y="-22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3khABBqEdNA2GmqdNmwd-18" value="signAndEncrypt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="120" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3khABBqEdNA2GmqdNmwd-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="3khABBqEdNA2GmqdNmwd-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="240" as="sourcePoint" />
+            <mxPoint x="840" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3khABBqEdNA2GmqdNmwd-29" value="Шифрует на&amp;nbsp;&lt;div&gt;сертификат ЦБ&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3khABBqEdNA2GmqdNmwd-28">
+          <mxGeometry x="-0.05" y="2" relative="1" as="geometry">
+            <mxPoint x="71" y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3khABBqEdNA2GmqdNmwd-27" value="decryptAndVerify AndSignAndEncrypt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="230" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
