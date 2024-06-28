@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-28T09:28:00.876Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="PTunTV7aL8Ri06ksZQbu" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-28T09:28:39.205Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Bs4ew452bfAVEhGKfmmv" version="24.3.1" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1183" dy="180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2537" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -275,6 +275,12 @@
         </mxCell>
         <mxCell id="Gp19THKgnnbt7rCXJ1ve-46" value="Сообщение из ТШ КБР" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-60" y="548" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp19THKgnnbt7rCXJ1ve-47" value="Получатель" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="800" y="400" width="120" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp19THKgnnbt7rCXJ1ve-48" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Gp19THKgnnbt7rCXJ1ve-47">
+          <mxGeometry x="40" y="80" width="40" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
