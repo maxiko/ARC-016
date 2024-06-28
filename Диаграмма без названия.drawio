@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T09:37:56.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="-TZRn6yI0Wkt-6wNsFh_" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-28T09:26:52.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Ol_Ek5iL4QlbpZ-XkMl9" version="24.3.1" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="2284" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -125,23 +125,156 @@
         <mxCell id="3khABBqEdNA2GmqdNmwd-27" value="decryptAndVerify AndSignAndEncrypt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="710" y="230" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iXzBTnAzifQnwiZxhjaq-1" value="Шифрует на&amp;nbsp;&lt;div&gt;сертификат КК ОБ&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="iXzBTnAzifQnwiZxhjaq-1" value="Шифрует на&amp;nbsp;&lt;div&gt;сертификат КК ОБ&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="150.0024469329999" y="99.9968562710161" as="geometry" />
         </mxCell>
-        <mxCell id="iXzBTnAzifQnwiZxhjaq-2" value="Подписывает ключом&amp;nbsp;&lt;div&gt;КК ОБ&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="iXzBTnAzifQnwiZxhjaq-2" value="Подписывает ключом&amp;nbsp;&lt;div&gt;КК ОБ&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="370.0024469329999" y="202.9968562710161" as="geometry">
             <mxPoint x="-12" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iXzBTnAzifQnwiZxhjaq-3" value="Подписывает ключом&amp;nbsp;&lt;div&gt;КО МИ&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="iXzBTnAzifQnwiZxhjaq-3" value="Подписывает ключом&amp;nbsp;&lt;div&gt;КО МИ&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="570.0024469329999" y="249.9968562710161" as="geometry">
             <mxPoint x="-12" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iXzBTnAzifQnwiZxhjaq-4" value="Подписывает ключом&amp;nbsp;&lt;div&gt;КК МИ&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="iXzBTnAzifQnwiZxhjaq-4" value="Подписывает ключом&amp;nbsp;&lt;div&gt;КК МИ&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="780.0024469329999" y="289.9968562710161" as="geometry">
             <mxPoint x="-12" y="-16" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Gp19THKgnnbt7rCXJ1ve-8" value="РЛ КК МИ" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry y="400" width="120" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp19THKgnnbt7rCXJ1ve-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Gp19THKgnnbt7rCXJ1ve-8">
+          <mxGeometry x="40" y="80" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp19THKgnnbt7rCXJ1ve-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-120" y="560" as="sourcePoint" />
+            <mxPoint x="40" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gp19THKgnnbt7rCXJ1ve-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="Gp19THKgnnbt7rCXJ1ve-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="498" as="sourcePoint" />
+            <mxPoint x="240" y="498" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gp19THKgnnbt7rCXJ1ve-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="Gp19THKgnnbt7rCXJ1ve-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="498" as="sourcePoint" />
+            <mxPoint x="240" y="498" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gp19THKgnnbt7rCXJ1ve-15" value="Шифрует на&amp;nbsp;&lt;div&gt;сертификат КО МИ&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gp19THKgnnbt7rCXJ1ve-14">
+          <mxGeometry x="-0.05" y="2" relative="1" as="geometry">
+            <mxPoint x="65" y="-36" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gp19THKgnnbt7rCXJ1ve-16" value="decryptAndVerify AndSignAndEncrypt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="480" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp19THKgnnbt7rCXJ1ve-17" value="Подписывает ключом&amp;nbsp;&lt;div&gt;КК МИ&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="170.00244693299987" y="540.9968562710161" as="geometry">
+            <mxPoint x="-11" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gp19THKgnnbt7rCXJ1ve-18" value="РЛ КО МИ" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="120" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp19THKgnnbt7rCXJ1ve-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Gp19THKgnnbt7rCXJ1ve-18">
+          <mxGeometry x="40" y="80" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp19THKgnnbt7rCXJ1ve-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="Gp19THKgnnbt7rCXJ1ve-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="533" as="sourcePoint" />
+            <mxPoint x="440" y="533" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gp19THKgnnbt7rCXJ1ve-24" value="Шифрует на&amp;nbsp;&lt;div&gt;сертификат КК ОБ&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gp19THKgnnbt7rCXJ1ve-23">
+          <mxGeometry x="-0.05" y="2" relative="1" as="geometry">
+            <mxPoint x="65" y="-36" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gp19THKgnnbt7rCXJ1ve-25" value="decryptAndVerify AndSignAndEncrypt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="518" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp19THKgnnbt7rCXJ1ve-26" value="Подписывает ключом&amp;nbsp;&lt;div&gt;КК ОБ&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="360.0024469329999" y="579.9968562710161" as="geometry">
+            <mxPoint x="-6" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gp19THKgnnbt7rCXJ1ve-27" value="РЛ КК ОБ" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="400" y="400" width="120" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp19THKgnnbt7rCXJ1ve-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Gp19THKgnnbt7rCXJ1ve-27">
+          <mxGeometry x="40" y="80" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp19THKgnnbt7rCXJ1ve-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Gp19THKgnnbt7rCXJ1ve-25" target="Gp19THKgnnbt7rCXJ1ve-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="491" as="sourcePoint" />
+            <mxPoint x="440" y="491" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gp19THKgnnbt7rCXJ1ve-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="Gp19THKgnnbt7rCXJ1ve-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="588" as="sourcePoint" />
+            <mxPoint x="640" y="588" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gp19THKgnnbt7rCXJ1ve-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="Gp19THKgnnbt7rCXJ1ve-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="588" as="sourcePoint" />
+            <mxPoint x="640" y="588" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gp19THKgnnbt7rCXJ1ve-34" value="Шифрует на&amp;nbsp;&lt;div&gt;сертификат КО ОБ&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gp19THKgnnbt7rCXJ1ve-33">
+          <mxGeometry x="-0.05" y="2" relative="1" as="geometry">
+            <mxPoint x="65" y="-36" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gp19THKgnnbt7rCXJ1ve-35" value="decryptAndVerify AndSignAndEncrypt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="570" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp19THKgnnbt7rCXJ1ve-36" value="Подписывает ключом&amp;nbsp;&lt;div&gt;КК ОБ&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="570.0024469329999" y="630.9968562710161" as="geometry">
+            <mxPoint x="-12" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gp19THKgnnbt7rCXJ1ve-37" value="&amp;nbsp;РЛ КО ОБ" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="600" y="401" width="120" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp19THKgnnbt7rCXJ1ve-38" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Gp19THKgnnbt7rCXJ1ve-37">
+          <mxGeometry x="40" y="80" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp19THKgnnbt7rCXJ1ve-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="Gp19THKgnnbt7rCXJ1ve-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="608" as="sourcePoint" />
+            <mxPoint x="840" y="608" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gp19THKgnnbt7rCXJ1ve-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="Gp19THKgnnbt7rCXJ1ve-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="608" as="sourcePoint" />
+            <mxPoint x="840" y="608" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gp19THKgnnbt7rCXJ1ve-43" value="Шифрует на&amp;nbsp;&lt;div&gt;сертификат получателя&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gp19THKgnnbt7rCXJ1ve-42">
+          <mxGeometry x="-0.05" y="2" relative="1" as="geometry">
+            <mxPoint x="65" y="-36" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gp19THKgnnbt7rCXJ1ve-44" value="decryptAndVerify AndSignAndEncrypt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="590" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp19THKgnnbt7rCXJ1ve-45" value="Подписывает ключом&amp;nbsp;&lt;div&gt;КО ОБ&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="770.0024469329999" y="650.9968562710161" as="geometry">
+            <mxPoint x="-12" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gp19THKgnnbt7rCXJ1ve-46" value="Сообщение из ТШ КБР" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-60" y="548" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
