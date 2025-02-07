@@ -43,6 +43,9 @@
             <mxPoint x="550" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="gnzicpfPZ5D86ISoPxrY-15" value="Поток в ЦБ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="160" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
