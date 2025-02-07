@@ -5,129 +5,129 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gnzicpfPZ5D86ISoPxrY-1" value="КК&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;ОБ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="320" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gnzicpfPZ5D86ISoPxrY-2" value="Mock Crypto КК&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;ОБ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="40" width="120" height="40" as="geometry" />
+          <mxGeometry x="320" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gnzicpfPZ5D86ISoPxrY-3" value="PCR Mock" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="120" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gnzicpfPZ5D86ISoPxrY-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startFill=1;endFill=1;" edge="1" parent="1" source="gnzicpfPZ5D86ISoPxrY-3" target="gnzicpfPZ5D86ISoPxrY-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="210" as="sourcePoint" />
-            <mxPoint x="50" y="170" as="targetPoint" />
+            <mxPoint x="140" y="210" as="sourcePoint" />
+            <mxPoint x="130" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gnzicpfPZ5D86ISoPxrY-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endFill=1;" edge="1" parent="1" target="gnzicpfPZ5D86ISoPxrY-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="220" as="sourcePoint" />
-            <mxPoint x="420" y="220" as="targetPoint" />
+            <mxPoint x="520" y="220" as="sourcePoint" />
+            <mxPoint x="500" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gnzicpfPZ5D86ISoPxrY-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="gnzicpfPZ5D86ISoPxrY-1" target="gnzicpfPZ5D86ISoPxrY-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="170" as="sourcePoint" />
-            <mxPoint x="350" y="150" as="targetPoint" />
+            <mxPoint x="390" y="170" as="sourcePoint" />
+            <mxPoint x="430" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gnzicpfPZ5D86ISoPxrY-12" value="КО&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;ОБ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="520" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gnzicpfPZ5D86ISoPxrY-13" value="Crypto КО&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;ОБ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="40" width="120" height="40" as="geometry" />
+          <mxGeometry x="520" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gnzicpfPZ5D86ISoPxrY-14" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startFill=0;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="200" as="sourcePoint" />
-            <mxPoint x="540" y="80" as="targetPoint" />
+            <mxPoint x="620" y="200" as="sourcePoint" />
+            <mxPoint x="620" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gnzicpfPZ5D86ISoPxrY-15" value="Поток в ЦБ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="80" width="160" height="40" as="geometry" />
+          <mxGeometry x="120" y="80" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gnzicpfPZ5D86ISoPxrY-17" value="шифрованый" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="510" y="130" width="100" height="30" as="geometry" />
+          <mxGeometry x="590" y="130" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gnzicpfPZ5D86ISoPxrY-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.142;entryY=-0.075;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.15;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gnzicpfPZ5D86ISoPxrY-13" target="gnzicpfPZ5D86ISoPxrY-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="120" as="sourcePoint" />
-            <mxPoint x="440" y="70" as="targetPoint" />
+            <mxPoint x="470" y="120" as="sourcePoint" />
+            <mxPoint x="520" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gnzicpfPZ5D86ISoPxrY-19" value="нешифрованый" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="390" y="120" width="100" height="30" as="geometry" />
+          <mxGeometry x="470" y="120" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gnzicpfPZ5D86ISoPxrY-20" value="КК&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;ОБ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="480" width="120" height="40" as="geometry" />
+          <mxGeometry x="320" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gnzicpfPZ5D86ISoPxrY-21" value="Mock Crypto КК&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;ОБ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="320" width="120" height="40" as="geometry" />
+          <mxGeometry x="320" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gnzicpfPZ5D86ISoPxrY-22" value="PCR Mock" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="480" width="120" height="40" as="geometry" />
+          <mxGeometry x="120" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gnzicpfPZ5D86ISoPxrY-23" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startFill=0;endFill=1;" edge="1" parent="1" source="gnzicpfPZ5D86ISoPxrY-22" target="gnzicpfPZ5D86ISoPxrY-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="490" as="sourcePoint" />
-            <mxPoint x="50" y="450" as="targetPoint" />
+            <mxPoint x="140" y="490" as="sourcePoint" />
+            <mxPoint x="130" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gnzicpfPZ5D86ISoPxrY-24" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=0;endFill=1;" edge="1" parent="1" target="gnzicpfPZ5D86ISoPxrY-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="500" as="sourcePoint" />
-            <mxPoint x="420" y="500" as="targetPoint" />
+            <mxPoint x="520" y="500" as="sourcePoint" />
+            <mxPoint x="500" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gnzicpfPZ5D86ISoPxrY-25" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="gnzicpfPZ5D86ISoPxrY-20" target="gnzicpfPZ5D86ISoPxrY-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="450" as="sourcePoint" />
-            <mxPoint x="350" y="430" as="targetPoint" />
+            <mxPoint x="390" y="450" as="sourcePoint" />
+            <mxPoint x="430" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gnzicpfPZ5D86ISoPxrY-26" value="КО&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;ОБ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="480" width="120" height="40" as="geometry" />
+          <mxGeometry x="520" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gnzicpfPZ5D86ISoPxrY-27" value="Crypto КО&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;ОБ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="320" width="120" height="40" as="geometry" />
+          <mxGeometry x="520" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gnzicpfPZ5D86ISoPxrY-28" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startFill=0;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="480" as="sourcePoint" />
-            <mxPoint x="460" y="360" as="targetPoint" />
+            <mxPoint x="540" y="480" as="sourcePoint" />
+            <mxPoint x="540" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gnzicpfPZ5D86ISoPxrY-29" value="Поток из ЦБ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="360" width="160" height="40" as="geometry" />
+          <mxGeometry x="120" y="360" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gnzicpfPZ5D86ISoPxrY-30" value="шифрованый" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="500" y="400" width="100" height="30" as="geometry" />
+          <mxGeometry x="580" y="400" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gnzicpfPZ5D86ISoPxrY-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.142;entryY=-0.075;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.15;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540.96" y="360" as="sourcePoint" />
-            <mxPoint x="540.0000000000002" y="477" as="targetPoint" />
+            <mxPoint x="620.96" y="360" as="sourcePoint" />
+            <mxPoint x="620.0000000000002" y="477" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gnzicpfPZ5D86ISoPxrY-32" value="нешифрованый" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="400" y="410" width="100" height="30" as="geometry" />
+          <mxGeometry x="480" y="410" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gnzicpfPZ5D86ISoPxrY-33" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint y="280" as="sourcePoint" />
-            <mxPoint x="680" y="280" as="targetPoint" />
+            <mxPoint x="80" y="280" as="sourcePoint" />
+            <mxPoint x="760" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gnzicpfPZ5D86ISoPxrY-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="gnzicpfPZ5D86ISoPxrY-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="220" as="sourcePoint" />
-            <mxPoint x="680" y="210" as="targetPoint" />
+            <mxPoint x="720" y="220" as="sourcePoint" />
+            <mxPoint x="760" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gnzicpfPZ5D86ISoPxrY-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="gnzicpfPZ5D86ISoPxrY-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="500" as="sourcePoint" />
-            <mxPoint x="690" y="385" as="targetPoint" />
+            <mxPoint x="720" y="500" as="sourcePoint" />
+            <mxPoint x="770" y="385" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
